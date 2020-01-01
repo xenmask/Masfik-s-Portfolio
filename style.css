@@ -1,0 +1,73 @@
+
+.main{
+    color:green;
+}
+body { 
+    margin: 20px 30px 10px 30px ;
+    font-family: sans-serif;
+    color: #787878;
+    line-height: 39px ;
+}
+p {
+    line-height:24px; 
+}
+h3{
+    line-height: 22px;
+}
+.text {
+    width: 50%;
+    float: left;
+}
+img{
+    height: 210px ;
+    width: 200px;
+    border-radius: 18px;
+}
+.photo{
+    float:left;
+    width: 25% ;
+    padding:20px;
+}
+.btn {
+    color: white;
+    background: green;
+    padding: 7px 10px 7px 10px;
+    border-radius: 20px;
+    text-decoration:none;
+    float: left ;
+    margin-right: 90px ;
+}
+.container{
+    padding: 5% ;
+    display: inline-block;
+}
+.dreamer{
+    width: 100%;}
+.audi{
+    width: 40%;
+    float: left ;
+}
+.audi img{
+    width: 270px;
+    height: 190px;
+    border-radius: 20px;
+}
+.dream{
+    width: 45%;
+    float: right;
+    padding: 5%;
+}
+.exp{
+    padding:27px;
+    width: 100% ;
+    margin:25px;
+    border-radius:20px;
+    background-color: rgb(180,879,455);
+}
+.item{
+    padding: 0px 10px;
+    border-left: 4px solid gray;
+}
+h4 {
+    color:green;
+}
